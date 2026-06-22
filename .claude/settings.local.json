@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node -e \"try { const b = require\\('c:/Users/octop/Documents/www/meta-gen/frontend/node_modules/@tailwindcss/oxide/tailwindcss-oxide.win32-x64-msvc.node'\\); console.log\\('OK', typeof b\\); } catch\\(e\\) { console.log\\('ERROR:', e.message\\); }\")"
+    ]
+  }
+}
