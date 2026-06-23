@@ -4,7 +4,7 @@ Colle l'URL d'une page web et obtiens instantanément **5 méta-descriptions SEO
 
 ## Démo
 
-**[meta-gen.nicolasgourgues.com](https://meta-gen.nicolasgourgues.com)**
+**[https://gourguesnicolas.github.io/meta-gen/](https://gourguesnicolas.github.io/meta-gen/)**
 
 ## Comment ça fonctionne
 
