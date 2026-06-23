@@ -1,4 +1,4 @@
-# Meta-Gen — Générateur de méta-descriptions SEO par IA
+# Meta-Gen AI — Générateur de méta-descriptions SEO par IA
 
 Colle l'URL d'une page web et obtiens instantanément **5 méta-descriptions SEO** optimisées, rédigées par une IA, prêtes à copier.
 
