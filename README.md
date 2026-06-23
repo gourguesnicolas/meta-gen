@@ -6,6 +6,8 @@ Colle l'URL d'une page web et obtiens instantanément **5 méta-descriptions SEO
 
 **[https://gourguesnicolas.github.io/meta-gen/](https://gourguesnicolas.github.io/meta-gen/)**
 
+<img src="meta-gen-ai-demo.png" alt="UI de Meta-Gen AI en thème sombre" width="800">
+
 ## Comment ça fonctionne
 
 1. Entre l'URL d'une page
